@@ -5,4 +5,19 @@ Nesse desafio, você deve criar uma aplicação para treinar o que você aprende
 
 Agora você deve continuar desenvolvendo a aplicação que irá armazenar repositórios do seu portfólio, que você já desenvolveu o backend no último desafio utilizando o Node.js.
 
---> [Instruções do Desafio](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-reactjs)
+## Executando...
+
+- A Aplicação
+    * <b>`yarn`
+    * `yarn start` </b>
+- Os Testes
+    * <b>`yarn`
+    * `yarn test` </b>
+
+## Instruções do Desafio
+<b>[Clique aqui](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-reactjs)
+
+<br/>
+
+---
+<b>[Voltar ao Índice de Repositórios](https://github.com/salescamila/gostack)</b>
